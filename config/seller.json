@@ -1,0 +1,6 @@
+{
+	"server" : "(local)",
+	"database" : "computadoras",
+	"user" : "vendedor",
+	"password" : "abc123"
+}
